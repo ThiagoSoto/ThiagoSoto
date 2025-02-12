@@ -2,10 +2,9 @@
 
 ### Atualmente estou no quinto semestre de  Ciência da Computação no Instituto Mauá de Tecnologia.
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSoto&show_icons=true&theme=tokyonight)
 
-
-## Desenvolvimento de Software
+## Tecnologias 
+### Desenvolvimento de Software
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -15,7 +14,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-## Frameworks e database
+### Frameworks e database
 <div align="center">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -24,11 +23,10 @@
 
 </div>
 
-## Ciência de Dados
+### Ciência de Dados
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSoto&layout=compact)](https://github.com/ThiagoSoto/github-readme-stats)
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSoto&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSoto&layout=compact)](https://github.com/ThiagoSoto/github-readme-stats)
