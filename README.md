@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Thiago Soto 
 
-### Atualmente estou no sexto semestre de  Ciência da Computação no Instituto Mauá de Tecnologia.
+### Atualmente estou no sétimo semestre de  Ciência da Computação no Instituto Mauá de Tecnologia.
 
 
 # Tecnologias 
